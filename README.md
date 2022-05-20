@@ -16,3 +16,5 @@
 ETO program image
 
 ![](https://raw.githubusercontent.com/dinochen1983/DINOETO/main/images/eto_cover.jpg)
+
+Dino Chen.
